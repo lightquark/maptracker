@@ -14,6 +14,7 @@ captures/
 .cxx/
 *.apk
 output.json
+/app/libs
 
 # IntelliJ
 *.iml
@@ -28,6 +29,10 @@ render.experimental.xml
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+/play-services-maps-10.2.0
 
 # Android Profiling
 *.hprof
+
+# My temp files
+/backup
